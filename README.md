@@ -16,8 +16,11 @@ React Native / Expo · TypeScript · Supabase
 
 ## Screenshots
 
-<!-- Add screenshots to a /screenshots folder and reference them here, for example: -->
-<!-- ![Home](screenshots/home.png) -->
+<p>
+  <img src="screenshots/screenshot-1.png" width="240" alt="Liftio" />
+  <img src="screenshots/screenshot-2.png" width="240" alt="Liftio" />
+  <img src="screenshots/screenshot-3.png" width="240" alt="Liftio" />
+</p>
 
 ---
 
